@@ -2395,7 +2395,7 @@
                 "overlayColor": "#cccccc"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1680x1050-pastel-yellow-solid-color-background-1680x1050.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pinkbackground-2000x1331.png",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
